@@ -18,8 +18,8 @@ Instructor: Chung-Yang Huang
 ## Quick start
 To run the Simple Chat Room application, follow these steps:
 
-1. Start the backend server (runs on http://localhost:4000): `yarn server`
+1. Start the backend server: `yarn server`
 
-2. In a new terminal, start the frontend application (accessible at http://localhost:3000): `yarn start`
+2. In a new terminal, start the frontend application: `yarn start`
 
-These commands will set up both the frontend and backend parts of the application. The backend serves the API and handles interactions with the MongoDB database, while the frontend provides the user interface. You can access the user interface at http://localhost:3000.
+These commands will set up both the frontend and backend parts of the application. The backend serves the API and handles interactions with the MongoDB database on http://localhost:4000, while the frontend provides the user interface at http://localhost:3000.
