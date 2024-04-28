@@ -26,12 +26,12 @@ To run the Simple Chat Room application, follow these steps:
 
 3. Start the backend server:
     ```shell
+    cd ..
     yarn server
     ```
 
 4. In a new terminal, start the frontend application:
     ```shell
-    cd frontend
     yarn start
     ```
 
