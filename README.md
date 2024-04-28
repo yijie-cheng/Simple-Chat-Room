@@ -7,24 +7,25 @@ Modified from the homework of NTU EE 3035, Fall 2022.
 Instructor: Chung-Yang Huang
 
 ## Requirements
-- Ensure you have MongoDB installed. Copy your MongoDB connection string into the file named `.env.defaults` and rename the file to `.env`.
 
-## Quick Start
+## Install
+1. Clone the repository: `git clone https://github.com/yijie-cheng/simple-chat-room.git simple-chat-room; cd simple-chat-room`
+
+2. Ensure you have MongoDB installed. Copy your MongoDB connection string into the file `./backend/.env.defaults` and rename the file to `.env`.
+
+3. Install dependencies for both the frontend and backend: `yarn build`
+
+## Quick start
 To run the Simple Chat Room application, follow these steps:
 
-1. Install dependencies:
-    ```shell
-    yarn build
-    ```
-
-2. Start the backend server:
+1. Start the backend server (runs on http://localhost:4000):
     ```shell
     yarn server
     ```
 
-3. In a new terminal, start the frontend application:
+2. In a new terminal, start the frontend application (accessible at http://localhost:3000):
     ```shell
     yarn start
     ```
 
-These commands will set up both the frontend and backend parts of the application.
+These commands will set up both the frontend and backend parts of the application. The backend serves the API and handles interactions with the MongoDB database, while the frontend provides the user interface. You can access the user interface at http://localhost:3000.
