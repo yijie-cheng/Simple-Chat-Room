@@ -1,7 +1,9 @@
 # Simple Chat Room
 
 This is a full-stack simple chat room application.
+
 Modified from the homework of NTU EE 3035, Fall 2022.
+
 Instructor: Chung-Yang Huang
 
 ## Requirements
