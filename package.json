@@ -1,0 +1,12 @@
+{
+  "name": "simple-chat-room",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd frontend && yarn start && cd ..",
+    "server": "cd backend && yarn server && cd ..",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^8.3.2"
+  }
+}
