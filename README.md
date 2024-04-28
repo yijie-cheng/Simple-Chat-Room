@@ -2,7 +2,7 @@
 
 This is a full-stack simple chat room application.
 
-Course: NTU EE 3035, Fall 2022.
+Course: NTU EE 3035 Web Programming, Fall 2022.
 
 Instructor: Chung-Yang Huang
 
