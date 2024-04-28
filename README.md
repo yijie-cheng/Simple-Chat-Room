@@ -12,25 +12,17 @@ Instructor: Chung-Yang Huang
 ## Quick Start
 To run the Simple Chat Room application, follow these steps:
 
-1. Install dependencies for the frontend:
+1. Install dependencies:
     ```shell
-    cd frontend
-    yarn
+    yarn build
     ```
 
-2. Install dependencies for the backend:
+2. Start the backend server:
     ```shell
-    cd ../backend
-    yarn
-    ```
-
-3. Start the backend server:
-    ```shell
-    cd ..
     yarn server
     ```
 
-4. In a new terminal, start the frontend application:
+3. In a new terminal, start the frontend application:
     ```shell
     yarn start
     ```
