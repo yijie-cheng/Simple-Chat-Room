@@ -6,8 +6,6 @@ Course: NTU EE 3035, Fall 2022.
 
 Instructor: Chung-Yang Huang
 
-## Requirements
-
 ## Install
 1. Clone the repository: `git clone https://github.com/yijie-cheng/simple-chat-room.git simple-chat-room; cd simple-chat-room`
 
