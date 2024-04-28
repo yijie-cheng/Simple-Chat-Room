@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Yarn lock file
+yarn.lock
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store

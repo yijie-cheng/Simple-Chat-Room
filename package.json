@@ -2,7 +2,7 @@
   "name": "simple-chat-room",
   "version": "1.0.0",
   "scripts": {
-    "build": "cd frontend && yarn && cd ../backend && yarn && cd..",
+    "build": "cd frontend && yarn && cd ../backend && yarn && cd ..",
     "start": "cd frontend && yarn start && cd ..",
     "server": "cd backend && yarn server && cd ..",
     "test": "echo \"Error: no test specified\" && exit 1"
