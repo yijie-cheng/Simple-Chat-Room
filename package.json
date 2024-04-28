@@ -2,9 +2,9 @@
   "name": "simple-chat-room",
   "version": "1.0.0",
   "scripts": {
-    "build": "cd frontend && yarn && cd ../backend && yarn && cd ..",
-    "start": "cd frontend && yarn start && cd ..",
-    "server": "cd backend && yarn server && cd ..",
+    "build": "cd frontend && yarn && cd ../backend && yarn",
+    "start": "cd frontend && yarn start",
+    "server": "cd backend && yarn server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
