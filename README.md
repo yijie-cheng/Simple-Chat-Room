@@ -2,6 +2,8 @@
 
 This is a full-stack simple chat room application.
 
+Developer: Yi-Jie Cheng
+
 Course: NTU EE 3035 Web Programming, Fall 2022.
 
 Instructor: Chung-Yang Huang
